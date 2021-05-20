@@ -1,6 +1,6 @@
 ## Zsuzsanna Ver
 
-[Projects](#projects) | [Education](#education)
+[Projects](#projects) | [Experience](#experience) | [Education](#education) | [Contact](#contact) |
 
 
 Highly motivated developer who is constantly deepening her programming skills. I coded my first website from scratch after finishing a web development course end of last year. Last year I already improved my skills with basic Python and JavaScript knowledge. I create and manage websites with WordPress for over 5+ years. I collaborated with peers on GitHub. I am passionate about developing amazing websites to deliver the best experience to users. Currently I am a student at Makers Academy.
@@ -12,7 +12,7 @@ Highly motivated developer who is constantly deepening her programming skills. I
 | **mrsver.com**               | Design, development, testing and maintenance of a mobile responsive gastronomy website. | HTML, CSS, JavaScript, Bootstrap, GitHub, Final Cut Pro X              |
 | **zsuzsireceptjei.com**            | I am managing a successful gluten free gastronomy blog where I built my own personal brand. Design of the logo and created the website using WordPress. | WordPress, Final Cut Pro X, Photoshop |
 
-## Work Experience
+## Experience
 
 **Supver Ltd.** (May-2020 to Present)  
 _Frontend developer_
@@ -83,3 +83,6 @@ Methodologies: Agile (Daily Stand-ups, Sprint Planning, Refinement, Retrospectiv
 - Digital Storytelling: FILMMAKING FOR THE WEB University of Birmingham, FutureLearn (Mar 2016)
 - Infection prevention and control link practitioner course, Infection Control Training Group Ltd. (Oct 2012)
 - Specialised clinical nurse (intensive theraphy for children),Semmelweis University (Jun 2009)
+
+#### Contact
+[LinkedIn](https://www.linkedin.com/in/zsuzsannaver/)
