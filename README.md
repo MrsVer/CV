@@ -1,5 +1,8 @@
 ## Zsuzsanna Ver
 
+[Projects](#projects) | [Education](#education)
+
+
 Highly motivated developer who is constantly deepening her programming skills. I coded my first website from scratch after finishing a web development course end of last year. Last year I already improved my skills with basic Python and JavaScript knowledge. I create and manage websites with WordPress for over 5+ years. I collaborated with peers on GitHub. I am passionate about developing amazing websites to deliver the best experience to users. Currently I am a student at Makers Academy.
 
 ## Projects
