@@ -1,4 +1,5 @@
 ## Zsuzsanna Ver
+_Frontend developer_
 
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Contact](#contact)
 
@@ -24,15 +25,7 @@ The ability to learn concepts and apply them to other problems made me a **good 
 
 `Creative filmmaking` `Final Cut Pro X` `Photoshop`
 
-Being a self-employed teached me to **thinking outside of the box** and create something uniqe. I made my own **business design with integrated branding**. I generated various **sales and marketing strategyes** and learned how to use different **social media platforms** as well. For my happy customers I **create engaging short films**. In order to achieve the desired effect I utilise techniques, such as
-- Trim and crop videos
-- Add titles and subtitles
-- Rotate videos
-- Add music and voice over tracks
-- Video effects
-- Slow down or speed up the footage
-- Embed still photos, illustrations and screen recordings
-- Keep your videos on brand by using your logo, color pallets and fonts
+Being a self-employed teached me to **thinking outside of the box** and create something uniqe. I made my own **business design with integrated branding**. I generated various **sales and marketing strategyes** and learned how to use different **social media platforms** as well. For my happy customers I **create engaging short films**. In order to achieve the desired effect I utilise techniques, such as trim and crop videos, add music titles and voice over tracks. I can embed still photos, illustrations and screen recordings, slow down or speed up the footage.
 
 **Healthcare**
 
@@ -47,12 +40,12 @@ At the begining of my carrier I learnt what **teamwork** means. At the hospital 
 **Supver Ltd.** (May-2020 to Present)  
 _Frontend developer_
 
+Technologies: HTML, CSS, JavaScript
+
 **Wedit4u** (Jan-2016 to Apr-2020)  
 _Video Editor_
 
 I offer online video editing services. I created the website, edit videos, advertised on social media and handled all customer relationships.
-
-Technologies: WordPress, Final Cut Pro X, Motion 5, Photoshop
 
 **Semmelweis University** (Feb-2015 to Jun 2015)  
 _Lecturer_
@@ -74,7 +67,6 @@ _Registered nurse_
 
 I cared for extremely premature babies with complex medical needs and educated their parents about basic nursing while they were in the hospital.
 
-
 ## Education
 
 #### Makers Academy (May 2021 to Aug 2021)
@@ -86,14 +78,6 @@ Processes/techniques:
 - Pair programming
 - Object Oriented Design
 - Using GitHub
-
-Technologies used:
-
-Ruby, Sinatra, Rspec, Capybara
-Javascript, Jasmine, Webpack, Node.js, React , Jest, Enzyme
-Java, SpringBoot, Maven, JUnit
-PostgresQL, MongoDB
-Methodologies: Agile (Daily Stand-ups, Sprint Planning, Refinement, Retrospective)
 
 #### Corvinus University (2009 to 2011)
 
