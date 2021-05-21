@@ -1,9 +1,9 @@
 ## Zsuzsanna Ver
 
-[Projects](#projects) | [Experience](#experience) | [Education](#education) | [Contact](#contact) |
+[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Contact](#contact) |
 
 
-Highly motivated developer who is constantly deepening her programming skills. I coded my first website from scratch after finishing a web development course end of last year. Last year I already improved my skills with basic Python and JavaScript knowledge. I create and manage websites with WordPress for over 5+ years. I collaborated with peers on GitHub. I am passionate about developing amazing websites to deliver the best experience to users. Currently I am a student at Makers Academy.
+Highly motivated developer who is constantly deepening her programming skills. I coded my first website from scratch after finishing a web development course end of 2019. Last year I already improved my skills with basic Python and JavaScript knowledge. I create and manage websites with WordPress for over 5+ years. I collaborated with peers on GitHub. I am passionate about developing amazing websites to deliver the best experience to users. Currently I am a student at Makers Academy.
 
 ## Projects
 
@@ -11,6 +11,32 @@ Highly motivated developer who is constantly deepening her programming skills. I
 | ---------------------------- | ----------------- | ----------------- |
 | **[mrsver.com](https://mrsver.com/)**               | Design, development, testing and maintenance of a mobile responsive gastronomy website. | HTML, CSS, JavaScript, Bootstrap, GitHub, Final Cut Pro X              |
 | **[zsuzsireceptjei.com](https://zsuzsireceptjei.com/)**            | I am managing a successful gluten free gastronomy blog where I built my own personal brand. Design of the logo and created the website using WordPress. | WordPress, Final Cut Pro X, Photoshop |
+
+## Skills
+
+**Programing skills**
+
+`Htlm` `CSS` `Python` `JavaScript` `Ruby` 
+
+ Problem Solving 
+ 
+ time and task management 
+ 
+ I have the ability to **work independently**, and I have specific knowledge of remote communication tools.
+
+**Video editing**
+
+`Creative filmmaking` `Final Cut Pro X` `Photoshop`
+
+Thinking outside of the box
+
+**Healthcare**
+
+`Healthcare management` `Pediatrics` `Nursing`
+
+**Empathy** is a necessary skill for healthcare professionals because this is the ability to understand the personal experience of the patients without bonding with them. Luckily I was born with **high emotional intelligence** and this helped me to become better carer.
+
+At the begining of my carrier I learnt what **teamwork** means. At the hospital where I worked as a nurse I had to **manage stressfull situations** in teams during the day and even in the midel of night. I can and happy to work in teams. With time I always become the **natural leader** of the team.
 
 ## Experience
 
@@ -47,7 +73,7 @@ I cared for extremely premature babies with complex medical needs and educated t
 
 ## Education
 
-#### Makers Academy (May 2021 to Aug 2010)
+#### Makers Academy (May 2021 to Aug 2021)
 
 **Processes/techniques:**
 
@@ -85,4 +111,4 @@ Methodologies: Agile (Daily Stand-ups, Sprint Planning, Refinement, Retrospectiv
 - Specialised clinical nurse (intensive theraphy for children),Semmelweis University (Jun 2009)
 
 #### Contact
-[LinkedIn](https://www.linkedin.com/in/zsuzsannaver/)
+[e-mail](zsuzsanna@supver.co.uk) [LinkedIn](https://www.linkedin.com/in/zsuzsannaver/)
