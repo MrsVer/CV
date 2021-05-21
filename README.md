@@ -9,8 +9,8 @@ Highly motivated developer who is constantly deepening her programming skills. I
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **mrsver.com**               | Design, development, testing and maintenance of a mobile responsive gastronomy website. | HTML, CSS, JavaScript, Bootstrap, GitHub, Final Cut Pro X              |
-| **zsuzsireceptjei.com**            | I am managing a successful gluten free gastronomy blog where I built my own personal brand. Design of the logo and created the website using WordPress. | WordPress, Final Cut Pro X, Photoshop |
+| **[mrsver.com](https://mrsver.com/)**               | Design, development, testing and maintenance of a mobile responsive gastronomy website. | HTML, CSS, JavaScript, Bootstrap, GitHub, Final Cut Pro X              |
+| **[zsuzsireceptjei.com](https://zsuzsireceptjei.com/)**            | I am managing a successful gluten free gastronomy blog where I built my own personal brand. Design of the logo and created the website using WordPress. | WordPress, Final Cut Pro X, Photoshop |
 
 ## Experience
 
