@@ -1,6 +1,6 @@
 ## Zsuzsanna Ver
 
-[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Contact](#contact) |
+[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Contact](#contact)
 
 
 Highly motivated developer who is constantly deepening her programming skills. I coded my first website from scratch after finishing a web development course end of 2019. Last year I already improved my skills with basic Python and JavaScript knowledge. I create and manage websites with WordPress for over 5+ years. I collaborated with peers on GitHub. I am passionate about developing amazing websites to deliver the best experience to users. Currently I am student at Makers Academy.
@@ -115,4 +115,5 @@ Methodologies: Agile (Daily Stand-ups, Sprint Planning, Refinement, Retrospectiv
 - **Specialised clinical nurse (intensive theraphy for children)**,Semmelweis University (Jun 2009)
 
 ## Contact
-[e-mail](mailto:zsuzsanna@supver.co.uk) [LinkedIn](https://www.linkedin.com/in/zsuzsannaver/)
+[<img src="https://github.com/MrsVer/CV/blob/master/attachments/linkedin.png" width="40" height="40" />](https://www.linkedin.com/in/zsuzsannaver/)
+  [<img src="https://github.com/MrsVer/CV/blob/master/attachments/mail.png" width="40" height="40" />](mailto:zsuzsanna@supver.co.uk) 
