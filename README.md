@@ -3,7 +3,7 @@
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Contact](#contact) |
 
 
-Highly motivated developer who is constantly deepening her programming skills. I coded my first website from scratch after finishing a web development course end of 2019. Last year I already improved my skills with basic Python and JavaScript knowledge. I create and manage websites with WordPress for over 5+ years. I collaborated with peers on GitHub. I am passionate about developing amazing websites to deliver the best experience to users. Currently I am a student at Makers Academy.
+Highly motivated developer who is constantly deepening her programming skills. I coded my first website from scratch after finishing a web development course end of 2019. Last year I already improved my skills with basic Python and JavaScript knowledge. I create and manage websites with WordPress for over 5+ years. I collaborated with peers on GitHub. I am passionate about developing amazing websites to deliver the best experience to users. Currently I am student at Makers Academy.
 
 ## Projects
 
@@ -18,13 +18,7 @@ Highly motivated developer who is constantly deepening her programming skills. I
 
 `Htlm` `CSS` `Python` `JavaScript` `Ruby` 
 
- Attention to Detail
- 
- Problem Solving debugging
- 
- time and task management 
- 
- I have the ability to **work independently**, and I have specific knowledge of remote communication tools.
+The ability to learn concepts and apply them to other problems made me a **good problem solver**. I enjoy debugging. However I prefer to see a whole precess I always keep my **attention to details**. Being on time it not easy but as I countinously perfecting my **time management skills** I can say I am an **organized** person who is on time. I have the ability to **work independently**, and I have specific knowledge of remote communication tools.
 
 **Video editing**
 
@@ -85,7 +79,7 @@ I cared for extremely premature babies with complex medical needs and educated t
 
 #### Makers Academy (May 2021 to Aug 2021)
 
-**Processes/techniques:**
+Processes/techniques:
 
 - Problem solving
 - TDD
@@ -93,7 +87,7 @@ I cared for extremely premature babies with complex medical needs and educated t
 - Object Oriented Design
 - Using GitHub
 
-**Technologies used:**
+Technologies used:
 
 Ruby, Sinatra, Rspec, Capybara
 Javascript, Jasmine, Webpack, Node.js, React , Jest, Enzyme
@@ -111,14 +105,14 @@ Methodologies: Agile (Daily Stand-ups, Sprint Planning, Refinement, Retrospectiv
 - Registered Nurse
 - Bachelor's degree
 
-#### Any other qualifications
+## Any other qualifications
 
-- Introduction to Python Programming, Code First: Girls (May 2020)
-- JavaScript algorithms and data structures, freeCodeCamp (Mar 2020)
-- Introduction to Web Development, Code First: Girls (Dec 2019)
-- Digital Storytelling: FILMMAKING FOR THE WEB University of Birmingham, FutureLearn (Mar 2016)
-- Infection prevention and control link practitioner course, Infection Control Training Group Ltd. (Oct 2012)
-- Specialised clinical nurse (intensive theraphy for children),Semmelweis University (Jun 2009)
+- **Introduction to Python Programming**, Code First: Girls (May 2020)
+- **JavaScript algorithms and data structures**, freeCodeCamp (Mar 2020)
+- **Introduction to Web Development**, Code First: Girls (Dec 2019)
+- **Digital Storytelling: FILMMAKING FOR THE WEB**, University of Birmingham, FutureLearn (Mar 2016)
+- **Infection prevention and control link practitioner course**, Infection Control Training Group Ltd. (Oct 2012)
+- **Specialised clinical nurse (intensive theraphy for children)**,Semmelweis University (Jun 2009)
 
-#### Contact
+## Contact
 [e-mail](zsuzsanna@supver.co.uk) [LinkedIn](https://www.linkedin.com/in/zsuzsannaver/)
