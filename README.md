@@ -115,4 +115,4 @@ Methodologies: Agile (Daily Stand-ups, Sprint Planning, Refinement, Retrospectiv
 - **Specialised clinical nurse (intensive theraphy for children)**,Semmelweis University (Jun 2009)
 
 ## Contact
-[e-mail](zsuzsanna@supver.co.uk) [LinkedIn](https://www.linkedin.com/in/zsuzsannaver/)
+[e-mail](mailto:zsuzsanna@supver.co.uk) [LinkedIn](https://www.linkedin.com/in/zsuzsannaver/)
