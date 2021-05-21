@@ -10,7 +10,7 @@ Highly motivated developer who is constantly deepening her programming skills. I
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **[mrsver.com](https://mrsver.com/)**               | Design, development, testing and maintenance of a mobile responsive gastronomy website. | HTML, CSS, JavaScript, Bootstrap, GitHub, Final Cut Pro X              |
-| **[zsuzsireceptjei.com](https://zsuzsireceptjei.com/)**            | I am managing a successful gluten free gastronomy blog where I built my own personal brand. Design of the logo and created the website using WordPress. | WordPress, Final Cut Pro X, Photoshop |
+| **[zsuzsireceptjei.com](https://zsuzsireceptjei.com/)**            | I am managing a successful gluten free gastronomy blog where I built my own personal brand. Design of the logo and created the website using WordPress. | WordPress, CSS, Final Cut Pro X, Photoshop |
 
 ## Skills
 
@@ -18,7 +18,9 @@ Highly motivated developer who is constantly deepening her programming skills. I
 
 `Htlm` `CSS` `Python` `JavaScript` `Ruby` 
 
- Problem Solving 
+ Attention to Detail
+ 
+ Problem Solving debugging
  
  time and task management 
  
@@ -28,7 +30,15 @@ Highly motivated developer who is constantly deepening her programming skills. I
 
 `Creative filmmaking` `Final Cut Pro X` `Photoshop`
 
-Thinking outside of the box
+Being a self-employed teached me to **thinking outside of the box** and create something uniqe. I made my own **business design with integrated branding**. I generated various **sales and marketing strategyes** and learned how to use different **social media platforms** as well. For my happy customers I **create engaging short films**. In order to achieve the desired effect I utilise techniques, such as
+- Trim and crop videos
+- Add titles and subtitles
+- Rotate videos
+- Add music and voice over tracks
+- Video effects
+- Slow down or speed up the footage
+- Embed still photos, illustrations and screen recordings
+- Keep your videos on brand by using your logo, color pallets and fonts
 
 **Healthcare**
 
